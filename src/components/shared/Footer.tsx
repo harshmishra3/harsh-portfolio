@@ -42,7 +42,7 @@ export function Footer() {
               harsh mishra
             </p>
             <p className="mono-label mt-2">
-              product engineer — gorakhpur, in (ist)
+              product engineer 
             </p>
             <p className="mt-5 max-w-sm text-sm leading-relaxed text-fog">
               I build AI-powered business systems end to end — platforms that

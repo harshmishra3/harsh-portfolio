@@ -1,11 +1,8 @@
 import { Navbar } from "@/components/shared/Navbar";
 import { Footer } from "@/components/shared/Footer";
 import { Hero } from "@/components/sections/Hero";
-import { About } from "@/components/sections/About";
 import { Projects } from "@/components/sections/Projects";
-import { Ecosystem } from "@/components/sections/Ecosystem";
-import { Services } from "@/components/sections/Services";
-import { Experience } from "@/components/sections/Experience";
+import { Packages } from "@/components/sections/Packages";
 import { Contact } from "@/components/sections/Contact";
 
 export default function Home() {
@@ -25,11 +22,8 @@ export default function Home() {
 
       <Navbar />
       <Hero />
-      <About />
       <Projects />
-      <Ecosystem />
-      <Services />
-      <Experience />
+      <Packages />
       <Contact />
       <Footer />
     </main>
