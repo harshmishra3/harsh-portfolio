@@ -108,7 +108,7 @@ export function Footer() {
         <div className="mt-12 flex flex-col gap-3 border-t border-line pt-6 md:flex-row md:items-center md:justify-between">
           <p className="mono-label">© 2026 harsh mishra — all rights reserved</p>
           <p className="mono-label">
-            built with next.js, tailwind, framer-motion · deployed on vercel
+    
           </p>
         </div>
       </div>
